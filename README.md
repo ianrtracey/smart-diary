@@ -1,3 +1,2 @@
-A lightweight hackathon registration app
-
-This app is the front-facing interface for Cactus
+# Smart Diary
+Relive you favorite moments from your favorite people.
