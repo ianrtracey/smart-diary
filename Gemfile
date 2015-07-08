@@ -15,4 +15,6 @@ gem 'warden', '1.2.3'
 gem 'rack-flash3'
 gem 'sinatra-authentication'
 gem 'rufus-scheduler'
+gem 'twilio-ruby'
+gem 'mongo'
 
